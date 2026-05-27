@@ -72,23 +72,6 @@ I'm a passionate **Computer Science student** who loves turning ideas into elega
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SreejaRaj2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaRaj2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SreejaRaj2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
