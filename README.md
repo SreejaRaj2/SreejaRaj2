@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-# Hey there, I'm Sreeja Pagidipala!
+# Hey there, I'm Sreeja Raj Pagidipala!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Explorer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A9;Building+cool+things+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a passionate **Computer Science student** who loves turning ideas into elegant solutions through code. Whether it's competitive programming, building full-stack web apps, or crafting mobile experiences — I'm always up for a challenge.
+I'm a passionate **Computer Science student** who loves turning ideas into elegant solutions through code, active DSA problem solver. Whether it's competitive programming, building full-stack web apps, or crafting mobile experiences — I'm always up for a challenge.
 
 - 🎓 Currently pursuing my **B.Tech in Computer Science**
 - 💡 I love solving problems on **LeetCode** and **Codeforces**
@@ -86,18 +86,6 @@ I'm a passionate **Computer Science student** who loves turning ideas into elega
 [![GitHub Streak](https://streak-stats.demolab.com?user=SreejaRaj2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SreejaRaj2&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-> 💡 *Trophies appear once your profile has enough activity — stars, commits, PRs, followers, etc. They'll show up automatically as you contribute more!*
 
 ---
 
